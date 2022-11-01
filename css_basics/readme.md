@@ -22,8 +22,8 @@
 2. box-sizing: border-box 
 ```
 
-- content width = width - border-width - padding-width
-- content width = width - border-width - padding-width
+- content width = width - padding-width - border-width 
+- content width = width - padding-width - border-width 
 - 讓padding與border不會增加視覺空間的寬度
 
 ## Pseudo classes
